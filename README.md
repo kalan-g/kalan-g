@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kalan-g
-- 👀 I’m interested in machine learning, AI, bioinformatics, robotics, web developemnt, web security.
-- 🌱 I’m currently learning Rust, Haskell, Smalltalk, Elixir
+- 👀 I’m interested in bioinformatics, web development and app development.
+- 🌱 I’m currently learning Javascript.
 - 📫 Feel free to reach out to me at kalanithy.gawsee@gmail.com ! :)
 
 <!---
